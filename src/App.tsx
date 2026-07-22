@@ -534,7 +534,7 @@ function Plans() {
 function Approach() {
   const { approach } = content;
   return (
-    <section id="approach" className="py-28 lg:py-40 relative overflow-hidden">
+    <section id="pillars" className="py-28 lg:py-40 relative overflow-hidden">
       <div className="absolute right-0 top-0 w-2/5 h-full opacity-0 lg:opacity-100 pointer-events-none transition-opacity">
         <div className="relative overflow-hidden w-full h-full opacity-[0.09]">
           <img
