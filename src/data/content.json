@@ -7,12 +7,12 @@
   },
   "nav": {
     "links": [
-      { "label": "Firm", "href": "#firm" },
+      { "label": "About", "href": "#about" },
       { "label": "Services", "href": "#services" },
-      { "label": "Approach", "href": "#approach" },
+      { "label": "Plans", "href": "#plans" },
+      { "label": "Pillars", "href": "#pillars" },
       { "label": "Sectors", "href": "#sectors" },
       { "label": "Insights", "href": "#insights" },
-      { "label": "Regional Data", "href": "#regional-corridors" },
       { "label": "Presence", "href": "#presence" },
       { "label": "Contact", "href": "#contact" }
     ],
