@@ -1,0 +1,368 @@
+{
+  "brand": {
+    "logo": "/logo.png",
+    "monogram": "K",
+    "name": "Kank Consults",
+    "tagline": "Smart Strategies. Stronger Businesses. Better Futures."
+  },
+  "nav": {
+    "links": [
+      { "label": "Firm", "href": "#firm" },
+      { "label": "Services", "href": "#services" },
+      { "label": "Approach", "href": "#approach" },
+      { "label": "Sectors", "href": "#sectors" },
+      { "label": "Insights", "href": "#insights" },
+      { "label": "Regional Data", "href": "#regional-corridors" },
+      { "label": "Presence", "href": "#presence" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "cta": "Book A Free Consultation"
+  },
+  "hero": {
+    "kicker": "Strategic Systems | Human Capital",
+    "headlineLines": [
+      "Smarter Systems.",
+      "Stronger Businesses.",
+      "Better Futures."
+    ],
+    "subheadline": "Empowering Leaders. Driving Results. Turning Vision into Value.",
+    "primaryCta": "Book a Free Consultation",
+    "secondaryCta": "Choose Your Plan",
+    "scrollLabel": "Scroll",
+    "backgroundImages": [
+      "/hero-bg-1.png",
+      "/hero-bg-2.png",
+      "/hero-bg-3.png",
+      "/hero-bg-4.png"
+    ],
+    "stats": [
+      { "value": "100%", "label": "Data-Driven Insights" },
+      { "value": "2025", "label": "Best Student in Data Modelling" },
+      { "value": "24/7", "label": "Premium Support Available" },
+      { "value": "0", "label": "Internet Required for School Systems" }
+    ]
+  },
+  "marquee": [
+    "Entrepreneurs",
+    "Executives",
+    "Business Owners",
+    "Leadership Teams",
+    "Private & Public Schools",
+    "Growing Businesses"
+  ],
+  "firm": {
+    "kicker": "The Firm",
+    "heading": "Great businesses don't happen by chance — they're built with clarity, discipline, and the right strategy.",
+    "paragraphs": [
+      "Led by Dr. Kwaning Kwabena Amoah Nyame (Chief Strategist & Principal Consultant, FCGBA, Doctoral Fellow ICBAC), Kank Consults empowers leaders and businesses through data-driven decisions, practical strategies, and proven systems.",
+      "We provide affordable POS & inventory management plans, offline school management systems, and strategic business coaching built for Ghanaian businesses to help them grow, scale, and thrive."
+    ],
+    "image": "/map-1.jpg",
+    "imageAlt": "Dr. Kwaning Kwabena Amoah Nyame presenting leadership and business strategy solutions",
+    "badge": {
+      "title": "Award Winner",
+      "text": "Best Business Data Modelling & Analytics"
+    }
+  },
+  "services": {
+    "kicker": "What We Offer",
+    "heading": "Solutions built to grow with your business.",
+    "intro": "From day-to-day systems to strategic advisory, we build what your business actually needs.",
+    "items": [
+      {
+        "number": "01",
+        "icon": "trending-up",
+        "title": "POS & Inventory Systems",
+        "description": "Point-of-sale and inventory management built for Ghanaian businesses, from single shops to multi-location operations."
+      },
+      {
+        "number": "02",
+        "icon": "search",
+        "title": "Business Analytics & Reporting",
+        "description": "Sales, profit, and performance reports that turn raw data into decisions you can act on."
+      },
+      {
+        "number": "03",
+        "icon": "handshake",
+        "title": "Enterprise Systems Integration",
+        "description": "Accounting, Payroll, CRM, Manufacturing, Asset & Hotel Management modules, tailored to your operations."
+      },
+      {
+        "number": "04",
+        "icon": "target",
+        "title": "Offline School Management System",
+        "description": "Complete offline school management and digital learning library. Empowering schools without requiring internet connectivity."
+      },
+      {
+        "number": "05",
+        "icon": "landmark",
+        "title": "Business Coaching & Strategy",
+        "description": "Strategic advisory in business strategy, leadership development, performance & growth, and executive decision-making."
+      },
+      {
+        "number": "06",
+        "icon": "chart-line",
+        "title": "Custom Software Development",
+        "description": "Bespoke integrations and custom-built tools for businesses whose needs go beyond off-the-shelf solutions."
+      }
+    ]
+  },
+  "plans": {
+    "kicker": "Pricing",
+    "heading": "Simple, transparent pricing.",
+    "intro": "Affordable POS and inventory management plans built for Ghanaian businesses. No hidden fees. Scale when you're ready.",
+    "currency": "GHS",
+    "periodLabel": "per month",
+    "customLabel": "Custom Quote",
+    "ctaLabel": "Choose Plan",
+    "items": [
+      {
+        "name": "Solo Plan",
+        "tagline": "Perfect for single-location shops",
+        "price": "200",
+        "custom": false,
+        "featured": false,
+        "features": [
+          "1 business location",
+          "Up to 5 users",
+          "Unlimited products",
+          "POS & inventory management",
+          "Sales & profit reports",
+          "WhatsApp receipts",
+          "Email & WhatsApp support"
+        ]
+      },
+      {
+        "name": "Growth Plan",
+        "tagline": "For growing multi-location businesses",
+        "price": "300",
+        "custom": false,
+        "featured": true,
+        "featuredLabel": "Most Popular",
+        "features": [
+          "Up to 3 business locations",
+          "Up to 15 users",
+          "Everything in Solo, plus:",
+          "User roles & permissions",
+          "Stock transfer between locations",
+          "Low stock alerts",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Business Plan",
+        "tagline": "For established businesses",
+        "price": "500",
+        "custom": false,
+        "featured": false,
+        "features": [
+          "Up to 5 business locations",
+          "Up to 25 users",
+          "Everything in Growth, plus:",
+          "Multi-business support",
+          "Custom invoice templates",
+          "Advanced analytics",
+          "Dedicated success manager"
+        ]
+      },
+      {
+        "name": "Custom",
+        "tagline": "Enterprise-grade solution",
+        "price": null,
+        "custom": true,
+        "featured": false,
+        "features": [
+          "Unlimited locations & users",
+          "Everything in Business, plus:",
+          "Accounting Module",
+          "Payroll Module",
+          "CRM Module",
+          "Manufacturing Module",
+          "Hotel Management Module",
+          "Asset Management Module",
+          "Custom integrations & development",
+          "On-premise or cloud deployment",
+          "SLA guarantees & compliance",
+          "24/7 premium support"
+        ]
+      }
+    ]
+  },
+  "approach": {
+    "kicker": "Our Core Pillars",
+    "heading": "Look. Listen. Live.",
+    "backgroundImage": "/approach.png",
+    "steps": [
+      {
+        "number": "01",
+        "icon": "compass",
+        "title": "Look",
+        "description": "Deep Data & Market Audit to uncover insights and establish clear baseline metrics."
+      },
+      {
+        "number": "02",
+        "icon": "search",
+        "title": "Listen",
+        "description": "Focusing on Team Culture & Soft Skill Mastery to align human capital with strategic goals."
+      },
+      {
+        "number": "03",
+        "icon": "clipboard-check",
+        "title": "Live",
+        "description": "Scaling for Legacy & Stewardship to ensure long-term, sustainable impact."
+      }
+    ]
+  },
+  "sectors": {
+    "kicker": "Who Benefits & Sectors We Serve",
+    "heading": "Solutions tailored for diverse institutions and commercial entities.",
+    "intro": "Empowering organizations across Ghana and beyond with world-class digital and strategic solutions.",
+    "backgroundImage": "/sectors.png",
+    "backgroundImageAlt": "Modern business and educational environments supported by Kank Consults",
+    "items": [
+      "Single & Multi-Location Shops",
+      "Established Corporations",
+      "Private Schools",
+      "Public Schools",
+      "Rural & International Schools",
+      "NGOs & Educational Foundations",
+      "TVET Institutions",
+      "Government Education Projects"
+    ]
+  },
+  "insights": {
+    "kicker": "Key Highlights & Awards",
+    "heading": "Recognized excellence in analytics and strategy.",
+    "intro": "Dr. Kwaning Kwabena Amoah Nyame leads Kank Consults with award-winning expertise in business data modeling and strategic management.",
+    "archiveCta": "Learn more about our methodologies",
+    "articles": [
+      {
+        "image": "/investment.png",
+        "tag": "Award Winner",
+        "tagIcon": "file-text",
+        "title": "Best Student in Business Data Modelling & Analytics",
+        "description": "Awarded by the Institute of Certified Business Analysts and Consultants (ICBAC) for the 2025 Professional Year.",
+        "meta": "2025 · Professional Award",
+        "readLabel": "Read"
+      },
+      {
+        "image": "/hero-bg-2.png",
+        "tag": "Digital Education",
+        "tagIcon": "book-open",
+        "title": "The School That Never Stops Learning",
+        "description": "Complete offline school management & digital learning solution — No Internet | No Limits | All-In-One.",
+        "meta": "EdTech Solution · 6 min read",
+        "readLabel": "Read"
+      },
+      {
+        "image": "/perspective.png",
+        "tag": "Strategy",
+        "tagIcon": "newspaper",
+        "title": "Clarity, Growth, and Leadership",
+        "description": "Why defining goals, building systems, and leading with confidence drive business breakthrough.",
+        "meta": "Leadership Brief · 5 min read",
+        "readLabel": "Read"
+      }
+    ]
+  },
+  "regionalCorridors": {
+    "kicker": "Feature Breakdown",
+    "heading": "Simple. Fast. Powerful. Built for your success.",
+    "intro": "Explore key features across our POS and School Management software solutions.",
+    "tabs": ["Solo Plan", "Growth Plan", "Business Plan"],
+    "activeLabel": "Active Plan",
+    "statusLabel": "Available",
+    "gdpLabel": "Monthly Rate",
+    "fdiLabel": "Location Support",
+    "insightLabel": "Kank Consults Overview",
+    "data": {
+      "Solo Plan": {
+        "region": "Solo Plan",
+        "hubs": "Perfect for single-location shops",
+        "gdp": "GHS 200",
+        "fdi": "1 Location",
+        "commentary": "Ideal for single-location shop owners who need reliable POS and inventory management without the complexity of multi-site operations.",
+        "insightQuote": "Simple tools, done right, can transform a single shop into a well-run business."
+      },
+      "Growth Plan": {
+        "region": "Growth Plan",
+        "hubs": "For growing multi-location businesses",
+        "gdp": "GHS 300",
+        "fdi": "Up to 3 Locations",
+        "commentary": "Built for businesses expanding beyond one location, with stock transfers, user roles, and low stock alerts to keep every site in sync.",
+        "insightQuote": "Growth shouldn't mean losing control — the right systems scale with you."
+      },
+      "Business Plan": {
+        "region": "Business Plan",
+        "hubs": "For established businesses",
+        "gdp": "GHS 500",
+        "fdi": "Up to 5 Locations",
+        "commentary": "Designed for established, multi-location businesses needing advanced analytics, custom invoicing, and a dedicated success manager.",
+        "insightQuote": "Established businesses deserve systems as sophisticated as their ambitions."
+      }
+    }
+  },
+  "presence": {
+    "kicker": "Our Location",
+    "heading": "Headquartered in Ghana.",
+    "intro": "Based in Ga West Accra, Sapeiman, serving businesses, schools, and entrepreneurs across Greater Accra and nationwide.",
+    "mapImage": "/map-2.png",
+    "mapImageAlt": "Map illustrating Kank Consults presence in Greater Accra, Ghana",
+    "locations": [
+      { "city": "Accra, Ghana", "hq": true },
+      { "city": "Ga West, Sapeiman" }
+    ],
+    "mapPins": [{ "label": "Accra", "top": "49%", "left": "35%", "size": "lg" }]
+  },
+  "contact": {
+    "kicker": "Request a Consultation",
+    "heading": "Ready to transform your business?",
+    "intro": "Let's build smarter systems and strategies that drive real growth. Book your free consultation today.",
+    "details": [
+      { "label": "Headquarters", "value": "Ga West Accra, Sapeiman, Ghana" },
+      { "label": "Email", "value": "principalconsultant@kankconsults.com" },
+      { "label": "Reach", "value": "Serving businesses & schools nationwide" }
+    ],
+    "form": {
+      "fields": [
+        { "name": "name", "label": "Full name", "type": "text" },
+        {
+          "name": "org",
+          "label": "Organization / School Name",
+          "type": "text"
+        },
+        { "name": "email", "label": "Work email", "type": "email" },
+        { "name": "country", "label": "Country / City", "type": "text" }
+      ],
+      "messageLabel": "How can we help your business or school?",
+      "submitLabel": "Book a Free Consultation"
+    }
+  },
+  "footer": {
+    "description": "Smart Strategies. Stronger Businesses. Better Futures. Affordable POS, offline school management systems, and strategic business coaching for Ghanaian businesses.",
+    "addressesLabel": "Office Location",
+    "addresses": ["Ga West Accra, Sapeiman, Ghana"],
+    "navigateLabel": "Navigate",
+    "getInTouchLabel": "Get in Touch",
+    "phone": {
+      "label": "Telephone",
+      "value": "0504 453 099 / 0303 987 659",
+      "href": "tel:+233504453099"
+    },
+    "whatsapp": {
+      "label": "WhatsApp",
+      "numbers": [
+        { "value": "0504 453 099", "href": "https://wa.me/233504453099" },
+        { "value": "0303 987 659", "href": "https://wa.me/233303987659" }
+      ]
+    },
+    "email": {
+      "label": "Email",
+      "value": "principalconsultant@kankconsults.com",
+      "href": "mailto:principalconsultant@kankconsults.com"
+    },
+    "designed": "Designed by Skytech GH",
+    "copyright": "© 2026 Kank Consults. All rights reserved.",
+    "strapline": "Smarter Systems. Stronger Businesses. Better Futures."
+  }
+}
