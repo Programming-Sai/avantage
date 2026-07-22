@@ -81,7 +81,7 @@ export default function FooterSection() {
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-5 py-6 text-sm md:px-[60px] lg:flex-row lg:items-center lg:justify-between">
           <p>
-            Copyright by <strong>BoldThemes</strong>. All rights reserved.
+            Copyright by <strong>KANK</strong>. All rights reserved.
           </p>
           <nav className="flex flex-wrap gap-4 font-semibold uppercase tracking-[0.16em]">
             {footerLinks.map((link) => (
