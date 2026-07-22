@@ -297,7 +297,7 @@ function SectionKicker({ children }) {
 function Firm() {
   const { firm } = content;
   return (
-    <section id="firm" className="py-28 lg:py-40">
+    <section id="about" className="py-28 lg:py-40">
       <div className="mx-auto max-w-[80rem] px-6 lg:px-12 grid lg:grid-cols-12 gap-16 items-center">
         <div className="lg:col-span-6">
           <SectionKicker>The Firm</SectionKicker>
