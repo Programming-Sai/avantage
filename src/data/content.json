@@ -361,7 +361,8 @@
       "value": "principalconsultant@kankconsults.com",
       "href": "mailto:principalconsultant@kankconsults.com"
     },
-    "designed": "Skytech Ghana",
+    "designedName": "Skytech Ghana",
+    "designedURL": "https://skytechghana.com/site",
     "copyright": "© 2026 Kank Consults. All rights reserved.",
     "strapline": "Smarter Systems. Stronger Businesses. Better Futures."
   }

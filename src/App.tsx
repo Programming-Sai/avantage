@@ -1065,7 +1065,12 @@ function Footer() {
       </div>
       <div className="border-t border-white/10">
         <div className="mx-auto max-w-[92rem] px-6 lg:px-12 py-6 flex flex-col sm:flex-row justify-between gap-3 text-sm text-white/45">
-          <span>{footer.designed}</span>
+          <span>
+            Built by{" "}
+            <b>
+              <a href={footer?.designedURL}>{footer.designedName}</a>
+            </b>
+          </span>
           {/* <span>{footer.copyright}</span> */}
           <span className="tracking-wide">{footer.strapline}</span>
         </div>
